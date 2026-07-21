@@ -1,4 +1,5 @@
 # Program 2 : Odd Magic Square
+## Write a C program to generate a magic square of odd order n using the Siamese method. Accept an odd positive integer from the user and display the magic square. A magic square is a square matrix in which the sum of every row, every column, and both main diagonals is the same. If the user enters an even or non-positive number, display an appropriate error message.
 
 ## Source code
 ```c
