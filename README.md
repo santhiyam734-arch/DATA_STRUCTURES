@@ -10,3 +10,5 @@ Program 3 : Write a C program to generate a magic square of even order n using t
 
 Program 4 : Check whether the given string is a palindrome or not by using stack and queue.
 
+Program 5 : Check whether the given string is in the form w.wrev or not by using stack
+
