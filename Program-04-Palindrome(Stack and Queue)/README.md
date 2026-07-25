@@ -1,4 +1,4 @@
-# Program 3 : Palindrome using Stack and Queue
+# Program 4 : Palindrome using Stack and Queue
 ## Write a C program to check whether the string entered is a palindrome or not by using stack and queue.
 
 ## Source code
