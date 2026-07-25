@@ -10,5 +10,9 @@ Program 3 : Write a C program to generate a magic square of even order n using t
 
 Program 4 : Check whether the given string is a palindrome or not by using stack and queue.
 
-Program 5 : Check whether the given string is in the form w.wrev or not by using stack
+Program 5 : Check whether the given string is in the form w.wrev or not by using stack.
+
+Program 6 : Generating n number of random integers and separate odd into stack1 and even into stack2 and printing both the stacks.
+
+Program 7 : Write a C program to reverse the given string using char*.
 
