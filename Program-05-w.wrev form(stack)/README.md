@@ -1,4 +1,4 @@
-# Program 3 : Checking w.wrev form (stack)
+# Program 5 : Checking w.wrev form (stack)
 ## Write a C program to check whether the string entered is in the form w.wrev or not by using stack.
 
 ## Source code
