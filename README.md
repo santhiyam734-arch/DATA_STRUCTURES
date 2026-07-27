@@ -16,3 +16,9 @@ Program 6 : Generating n number of random integers and separate odd into stack1 
 
 Program 7 : Write a C program to reverse the given string using char*.
 
+Program 8 : Generate the power set of given set of values.
+
+Program 9 : Write a C program to add two sparse matrices to get the dense matrix.
+
+Program 10 : Read a sequence of open and closing brackets and check whether the given stream of brackets are balanced or not.
+
