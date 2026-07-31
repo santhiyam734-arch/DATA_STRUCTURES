@@ -22,3 +22,16 @@ Program 9 : Write a C program to add two sparse matrices to get the dense matrix
 
 Program 10 : Read a sequence of open and closing brackets and check whether the given stream of brackets are balanced or not.
 
+Program 11 : Program to perform the creation, displaying and inserting element at head and tail in the linked list.
+
+Program 12 : Program to perform basic functions like counting, reversing, finding sum, finding position in the linked list. 
+
+Program 13 : Check whether the values of the linked list are in the increasing order or not.
+
+Program 14 : Check whether two linked lists are same or not.
+
+Program 15 : Write a C program to create the copy of the given linked list.
+
+Program 16 : Write a C program to concatenate two lists 1l and l2 and print the result in the list l3.
+
+Program 17 : Write a C program to find the value of the middle node in the given linked list. 
