@@ -62,7 +62,7 @@ int main()
     printf("\nList 2 : ");
     display(l2);     printf("\n\n");
 
-    printf("\nConctaenated Linked list : \n ");
+    printf("\nConcatenated Linked list : \n ");
     printf("\nList 3 : ");
     display(l3);     printf("\n\n\n");
 
